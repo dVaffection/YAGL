@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YAGL</string>
+    <string name="app_full_name">Yet Another Grocery List</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_item">New item</string>
+    <string name="new_item_dialog_title">Item description</string>
+    <string name="empty_list">Your list is empty</string>
+</resources>
